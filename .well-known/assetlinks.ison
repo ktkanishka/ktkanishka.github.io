@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "au.com.sealink.ticketing",
+    "sha256_cert_fingerprints":
+    ["7C:FA:B2:66:28:17:3D:E3:4E:50:53:E7:6D:9F:7D:0E:C1:A5:7B:14:AD:E1:63:BC:5C:C5:4D:47:30:05:F7:BF"]
+  }
+}]
