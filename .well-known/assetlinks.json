@@ -1,26 +1,9 @@
-[
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "au.com.sealink.ticketing",
-      "sha256_cert_fingerprints": [
-        "7C:FA:B2:66:28:17:3D:E3:4E:50:53:E7:6D:9F:7D:0E:C1:A5:7B:14:AD:E1:63:BC:5C:C5:4D:47:30:05:F7:BF"
-      ]
-    }
-  },
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "au.com.sealink.ticketing",
-      "sha256_cert_fingerprints": [
-        "68:D2:E9:93:0B:9B:DC:FD:F3:FB:79:B4:EE:D1:E9:C7:4E:1D:6F:59:56:93:05:3C:23:86:27:0D:38:28:D5:C8"
-      ]
-    }
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "au.com.sealink.ticketing",
+    "sha256_cert_fingerprints":
+    ["7C:FA:B2:66:28:17:3D:E3:4E:50:53:E7:6D:9F:7D:0E:C1:A5:7B:14:AD:E1:63:BC:5C:C5:4D:47:30:05:F7:BF"]
   }
-]
+}]
